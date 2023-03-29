@@ -1,4 +1,3 @@
-package stack;
 
 public class DynamicArray<T> {
     private int capasity = 10;

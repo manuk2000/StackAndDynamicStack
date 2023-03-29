@@ -1,4 +1,3 @@
-package stack;
 
 public class ArrayListUsingStack<T> {
     private DynamicArray<T> arr = new DynamicArray<>();
